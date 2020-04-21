@@ -1,0 +1,23 @@
+{
+  "name": "circleci-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/araines/circleci-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/araines/circleci-demo/issues"
+  },
+  "homepage": "https://github.com/araines/circleci-demo#readme",
+  "dependencies": {
+    "jest": "^25.4.0"
+  }
+}
